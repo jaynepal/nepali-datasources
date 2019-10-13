@@ -141,6 +141,9 @@ Educational Facilities within Kathmandu valley (Crowdsourced).
 ### [Ministry of Irrigation](http://doi.gov.np/irrigation-documents/development-of-database-for-irrigation-development-in-nepal/)
 Irrigation related statistics.
 
+## Earthquakes in Nepal
+### [seismonepal.gov.np](seismonepal.gov.np/earthquakes)
+
 ## Nepal Earthquake 2015
 
 ### [ICIMOD](http://www.icimod.org/nepalearthquake2015)
