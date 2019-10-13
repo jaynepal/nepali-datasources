@@ -127,10 +127,10 @@ Total schools and students by grade and year (2069 / 70).
 ### [HDX](https://data.hdx.rwlabs.org/dataset/nepal-census-2011-district-profiles-education)
 Nepal Census 2011 District Profiles (Education). There are some nice [visualizations of the data](http://www.madhesiyouth.com/data/education/).
 
-###[Wikipedia](https://en.wikipedia.org/wiki/List_of_schools_in_Nepal)
+### [Wikipedia](https://en.wikipedia.org/wiki/List_of_schools_in_Nepal)
 Lis of schools in Nepal sorted by Districts.
 
-###[School Statistics Information System](http://202.70.77.75:8080/flash/schoolreport/reportpre.php)
+### [School Statistics Information System](http://202.70.77.75:8080/flash/schoolreport/reportpre.php)
 Data collected by government on schools during inspections.
 
 ### [Open Cities](http://www.opencitiesproject.org/casestudy/schools/)
@@ -170,7 +170,8 @@ Dataset containing Nepalese surnames.
 ### [gender-data](https://github.com/studenton/gender-data)
 Dataset containing the first names and their gender.
 
-
+### [Geo-polygon data of Nepal](https://data.humdata.org/dataset/administrative-bounadries-of-nepal)
+Dataset containing geo polygon for Nepal administrative level 0-2. Good for GIS mapping and geo indexing.
 
 ##Other Sources
 * [OpenNepal](http://data.opennepal.net/)
